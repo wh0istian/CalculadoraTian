@@ -1,0 +1,5 @@
+Git clone https://github.com/wh0istian/CalculadoraTian.git
+cd CalculadoraTian
+ls
+Python calculadora.py
+And that's it. Enjoy!
