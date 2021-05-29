@@ -9,6 +9,6 @@ Funcion: Esta es una calculadora bastante facil hecha por mi en termux :)
 
 -ls
 
--CalculadoraTian
+-CalculadoraTian.py
 
 -Y listo bro!
