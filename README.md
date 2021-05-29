@@ -1,3 +1,3 @@
 # Calculadora By Tian
-Calculadora muy básica hecha en termux jajaj, espero lo disfrutes!
+Funcionalidad: Calculadora muy básica hecha en termux jajaj, espero lo disfrutes!
 
