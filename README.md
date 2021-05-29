@@ -1,13 +1,13 @@
 # Calculadora By Tian
 Funcion: Esta es una calculadora bastante facil hecha por mi en termux :)
 
-Instalar: 
-git clone https://github.com/wh0istian/CalculadoraTian
+-Instalar: 
+-git clone https://github.com/wh0istian/CalculadoraTian
 
-cd CalculadoraTian
+-cd CalculadoraTian
 
-ls
+-ls
 
-CalculadoraTian
+-CalculadoraTian
 
-Y listo bro!
+-Y listo bro!
